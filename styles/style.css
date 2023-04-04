@@ -277,6 +277,7 @@ img {
     margin: 0 auto;
     max-width: 1200px;
     width: 100%;
+    padding-bottom: 50px;
 }
 
 ul {
@@ -420,6 +421,7 @@ p {
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
+    padding-bottom: 0;
 }
 
 .iconBit {
