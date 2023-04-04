@@ -590,6 +590,11 @@ input {
         text-align: center;
     }
 
+    .brushes .textContainer,
+    .paints .textContainer {
+        padding-bottom: 50px;
+    }
+
     .brushes wrapper,
     .paints wrapper,
     {
